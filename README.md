@@ -18,4 +18,4 @@ You are required to build a model that auto-tag images and classifies them into 
 
 
 ## Solution:
-My solution to this problem was using the Transfer Learning VGG16 model to ddo the task. The resultant score to this challenge was 80(approx.)
+My solution to this problem was using the `Transfer Learning VGG16 model`. The resultant score to this challenge was 80(approx.)
